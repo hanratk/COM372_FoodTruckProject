@@ -1,0 +1,74 @@
+#list1 li
+{
+margin: 45px 18px;
+ border: 3px solid FF6633;
+display: inline;
+padding: 10px;
+background-color: FF6633;
+font-family: 'Lora', serif;
+
+}
+
+
+#BeanTruck
+{border: 3px solid black;
+width: 500px;
+padding: 20px;
+margin: 30px;
+font-family: 'Lora', serif;
+}
+
+#MenuHeading
+{display: block;
+background-color: FF3366;
+margin: 30 5px;
+font-family: 'Lora', serif;}
+
+#Appetizers
+{
+  display: inline-block;
+  font-family: 'Raleway', sans-serif;
+  border: 3px solid black;
+  padding: 10px;
+  margin: 10px;
+  width: 345px;
+  float: left;
+}
+
+#Beans
+{border: 3px solid black;
+  font-family: 'Raleway', sans-serif;
+padding: 10px;
+margin: 10px;
+width: 345px;
+display:inline-block;
+float: left;
+}
+
+
+#OurStory
+{border: 3px solid black;
+padding: 20px;
+margin: 20px;
+width: 550;
+font-family: 'Raleway', sans-serif;
+}
+
+#StoryHeading
+{display:block;
+margin: 30 5px;
+background-color: FF3366;
+font-family: 'Lora', serif;}
+
+#UpcomingEvents
+{border: 3px solid black;
+  font-family: 'Raleway', sans-serif;
+padding: 20px;
+Margin: 20px;
+width: 550;}
+
+#EventsHeading
+{display: block;
+margin: 30 5px;
+background-color: FF3366;
+font-family: 'Lora', serif;}
